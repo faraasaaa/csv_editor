@@ -2,8 +2,6 @@
 
 A modern, responsive CSV editor built with React, TypeScript, and Framer Motion. Features a sleek dark theme and iOS-like animations for a premium user experience.
 
-![CSV Editor Preview](https://images.unsplash.com/photo-1537884944318-390069bb8665?auto=format&fit=crop&q=80&w=2070)
-
 ## Features
 
 - 🌓 Beautiful dark theme with glass-morphism effects
