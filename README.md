@@ -25,7 +25,7 @@ A modern, responsive CSV editor built with React, TypeScript, and Framer Motion.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/csv-editor.git
+git clone https://github.com/faraasaaa/csv_editor_site.git
 cd csv-editor
 ```
 
